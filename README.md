@@ -5,6 +5,9 @@ Read the instructions below, and complete all the challenges. Your submission mu
 
 We know that this dataset is small and can fit into any modern laptop with 2GB of ram. Before you decide to use Pandas (for good reasons), please use any modern distributed ETL (spark, flink, beam, dask, etc; spark preferred) because we expect your solution to scale to larger datasets (TB or more)!
 
+## The Solution
+PayTMLabs-Challenge.ipynb walks over the solution in detail
+
 ## The Challenge
 
 ### The Data
